@@ -1,6 +1,6 @@
-/*	Name:	Alex Geary
-	ID:	1188083
- */
+/*
+Name:	Alex Geary
+ID:	1188083 */
 
 Notes:
 	I implemented a c file for Info because I wanted to create a method for creating an Info.
@@ -10,3 +10,5 @@ Compile command:
 
 Run command:
 	/myStringApp -h <heapSize> -a <[first|best|worst]> < <"filename.txt">
+
+Run this program with one of the trace text files in this repository.
